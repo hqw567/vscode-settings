@@ -17,6 +17,7 @@
 
   // Editor
   "security.workspace.trust.untrustedFiles": "open",
+  "editor.linkedEditing": true,
   "editor.accessibilitySupport": "off",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.find.addExtraSpaceOnTop": false,
