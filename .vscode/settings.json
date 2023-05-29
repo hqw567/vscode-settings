@@ -11,8 +11,9 @@
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 10,
-  "editor.fontFamily": "Input Mono, Fira Code, monospace",
-  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
+  // "editor.fontFamily": "Input Mono, Fira Code, monospace",
+  // "editor.fontWeight": "normal",
+  // "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
 
   // Editor
   "security.workspace.trust.untrustedFiles": "open",
@@ -37,7 +38,7 @@
   "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-  "window.autoDetectColorScheme": true,
+  "window.autoDetectColorScheme": false,
   "window.dialogStyle": "custom",
   "window.nativeTabs": true, // this is great, macOS only
   "window.titleBarStyle": "custom",
